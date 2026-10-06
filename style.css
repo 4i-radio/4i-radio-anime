@@ -68,3 +68,12 @@
 .staff-section .staff-entry .staff-reading{font-size:12px;letter-spacing:.06em;color:#6b788b;margin-top:5px}
 .coming-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:760px){.staff-section .staff-credits{grid-template-columns:1fr;gap:24px}.staff-section .staff-entry dd{font-size:21px}.coming-grid{grid-template-columns:1fr}}
+
+.hero-cast{max-width:1320px;margin:0 auto;padding:25px 0 34px;border-top:1px solid #ffffff30}
+.hero-cast h2{margin:0 0 20px;font:700 14px Arial,sans-serif;letter-spacing:.15em;color:var(--warm)}
+.hero-cast dl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px 28px;margin:0}
+.cast-entry{min-width:0}
+.cast-entry dt{font-size:13px;color:#ced6e1;line-height:1.7}
+.cast-entry dd{margin:5px 0 0;font-size:17px;line-height:1.7;overflow-wrap:anywhere}
+.character-card p.character-cv{font-size:16px;line-height:1.7;letter-spacing:.03em;margin:-6px 0 20px;font-weight:600;white-space:normal}
+@media(max-width:760px){.hero-cast{margin:0 8px;padding:24px 0 30px}.hero-cast dl{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 12px}.cast-entry dd{font-size:15px}.character-card p.character-cv{margin:-10px 0 24px;padding-left:19px}}
