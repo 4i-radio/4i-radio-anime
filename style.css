@@ -77,3 +77,9 @@
 .cast-entry dd{margin:5px 0 0;font-size:17px;line-height:1.7;overflow-wrap:anywhere}
 .character-card p.character-cv{font-size:16px;line-height:1.7;letter-spacing:.03em;margin:-6px 0 20px;font-weight:600;white-space:normal}
 @media(max-width:760px){.hero-cast{margin:0 8px;padding:24px 0 30px}.hero-cast dl{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 12px}.cast-entry dd{font-size:15px}.character-card p.character-cv{margin:-10px 0 24px;padding-left:19px}}
+
+/* Published information: scoped additions preserve the existing character layout. */
+.official-link{text-decoration:underline;text-underline-offset:4px;line-height:1.8}.official-link:hover{color:#92612c}
+.onair-date{font-size:20px;line-height:1.9;margin:0}.onair-date strong{font-size:23px}
+.movie-list{display:grid;gap:32px}.movie-card{min-width:0}.movie-card h3{font-size:17px;line-height:1.8;margin:0}.movie-card .coming-note{margin:8px 0 14px}.movie-player{display:block;width:100%;aspect-ratio:16/9;border:0;background:var(--night);margin-bottom:10px}.movie-card>.official-link{font-size:13px}
+.music-section{border-top:1px solid #cbd0d7}.music-label{font-size:14px;color:#637084}.music-section h3{font-size:30px;letter-spacing:.06em;margin:14px 0 20px}
