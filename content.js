@@ -9,6 +9,7 @@ window.SITE_CONTENT = {
     {name:"宮崎一馬",cv:"清水幸路",color:'#557dab',secondary:'#293f65',faceWidth:261.3889,faceLeft:-61.1111,faceTop:4,artHeight:97.6350,artBottom:-0.8175,image:'assets/miyazaki.png',description:'何事もそつなくこなす、6人の中では比較的まともな常識人。\n暴走するメンバーを理性的にフォローする一方、\n自分のことになると妙に評価が低い。\n気がつけば差し入れや後始末をしていることが多い。'}
   ],
   news: [
+    {date:'2026.11.06',title:'キャラクターPV第2弾「山田空琉×神崎真」公開！',body:'キャラクターPV第2弾「山田空琉×神崎真」を公開しました。OP主題歌「Midnight calling」のサビを初公開。MOVIEからご覧いただけます。'},
     {date:'2026.10.23',title:'キャラクターPV第1弾「高崎翔真×一条尊」公開！',body:'キャラクターPV第1弾「高崎翔真×一条尊」を公開しました。MOVIEからご覧いただけます。'},
     {date:'2026.10.09',title:'ティザーPV公開！',body:'TVアニメ『4i RADIO』のティザーPVを公開しました。MOVIEからご覧いただけます。'},
     {date:'2026.10.02',title:'TVアニメ『4i RADIO』制作決定！',body:'公式サイトをオープンしました。'}]
