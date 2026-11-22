@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://4i-radio.github.io/4i-radio-anime/sitemap.xml
